@@ -1,4 +1,6 @@
-1-Persian Date Picker 
-Name : fixed-persian-datepicker
-NPM: https://www.npmjs.com/package/fixed-persian-datepicker/v/3.0.3
-DESC: import lib's css in _app file or global Css to load CSS.
+1-
+Usage : Persian Date Picker 
+Name : Zaman
+NPM: https://www.npmjs.com/package/zaman
+GitHub:https://github.com/rzkhosroshahi/zaman
+DESC: Require DatePicker Or Any Component And Use them.
